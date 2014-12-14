@@ -7,6 +7,7 @@ to maintain this theme.
 Fell free to clone it and keep it going.
 ```
 
+###示例：[Melandri][http://melandri.net/]
 
 
 This is an Octopress theme based on a "classic" theme customization found at http://melandri.net
